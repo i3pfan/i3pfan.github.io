@@ -23,12 +23,12 @@ header {
 	color: #fff;
 	font-weight: bold;
 	text-align: undefined;
-	width: 1%;
+	width: 0%;
 	float: left;
 }
 header nav {
 	float: right;
-	width: 99%;
+	width: 100%;
 	text-align: right;
 	margin-right: 5%;
 }
@@ -39,7 +39,7 @@ header nav ul {
 header nav ul li {
 	float: left;
 	color: #FFFFFF;
-	font-size: 1.0rem;
+	font-size: 0.8rem;
 	text-align: left;
 	margin-right: 25px;
 	letter-spacing: 2px;
