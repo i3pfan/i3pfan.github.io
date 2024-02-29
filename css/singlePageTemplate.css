@@ -1,7 +1,7 @@
 @charset "UTF-8";
 /* Body */
 body {
-	font-family: "メイリオ", meiryo, source-sans-pro;
+	font-family: "Helvetica Neue", "Helvetica", "Hiragino Sans", "Hiragino Kaku Gothic ProN", "Arial", "Yu Gothic", "Meiryo", sans-serif;
 	background-color: #222222;
 	margin-top: 0px;
 	margin-right: 0px;
@@ -9,6 +9,7 @@ body {
 	margin-left: 0px;
 	font-style: normal;
 	font-weight: 200;
+	#font-family: "メイリオ", meiryo, source-sans-pro, sans-serif;
 }
 header {
 	position: fixed;
