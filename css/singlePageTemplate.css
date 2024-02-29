@@ -145,8 +145,9 @@ h3 {
 	text-align: center;
 	max-width: 780px;
 	width: 100%;
-	height: 390px;
+	#height: 390px;
 	padding-top: 35px;
+	aspect-ratio: 10/4;
 }
 .members_list {
 }
